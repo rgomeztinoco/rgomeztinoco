@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Ricardo
 
-I have always been passionate about solving problems. Before breaking into the tech industry, my way of achieving that was through architecture, but when I discovered programming, it became clear to me that I could have a bigger impact in the world through this field. Because of my architectural background, I have a very good understanding of Graphic design and User experience. I’m self-taught and a fast learner. I love learning new things every day.
+I have always been passionate about solving problems. Before breaking into the tech industry, my way of achieving that was through architecture, but when I discovered programming, it became clear to me that I could have a bigger impact in the world as a developer.
+
+Because of my architectural background, I have a very good understanding of Graphic design and User experience. I’m self-taught, a fast learner and love learning new things every day. As a Full-stack developer, I have knowledge in frontend and backend technologies, but I tend to lean towards frontend development more because of the design factor in it.
 
 I’m looking forward to work in a place that is always innovating and has a clear mission that aims to make big changes in the world by making it more equal, sustainable and open to diversity.
 

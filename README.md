@@ -27,6 +27,6 @@ I’m looking forward to work in a place that is always innovating and has a cle
 
 ---
 
-<p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgomeztinoco&show_icons=true&locale=en&layout=compact&theme=dark" alt="rgomeztinoco" /></p>
+<p><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgomeztinoco&show_icons=true&locale=en&layout=compact&theme=dark" alt="rgomeztinoco" /></p>
 
-<p>&nbsp;<img align="center" width="51%" src="https://github-readme-stats.vercel.app/api?username=rgomeztinoco&show_icons=true&locale=en&theme=dark" alt="rgomeztinoco" /></p>
+<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rgomeztinoco&show_icons=true&locale=en&theme=dark" alt="rgomeztinoco" /></p>
